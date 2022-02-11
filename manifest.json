@@ -1,5 +1,5 @@
 {
-  "name": "FLQL display questions",
+  "name": "FLQL display questions (support HTML and answers)",
   "description": "Get the .txt file in the right format, upload before starting a game, and that's it.",
   "version": "1.2",
   "manifest_version": 3,
